@@ -1,6 +1,9 @@
 import com.aparapi.Kernel;
 import com.aparapi.Range;
 
+/**
+ * Sum of two arrays
+ */
 public class Example1 {
 
     public static void main(String[] _args) {
